@@ -1,3 +1,4 @@
+
   declare module 'react-slideshow-image' {
     export class Zoom extends React.Component<ZoomProps & any, any> {
         goBack(): void;
